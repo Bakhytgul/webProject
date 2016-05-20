@@ -1,0 +1,76 @@
+.pol{
+	background-image: url("shine.jpg");
+	height: 900px;
+}
+.navka{
+	font-family: Monotyre Captiva;
+	color: black;
+	font-size: 30px;
+	height: 70px;
+	padding-left: 50px;
+	padding-top: 15px;
+	/*width: 30%;*/
+}
+.radio{
+	padding-left: 60px;
+}
+.main{
+	color: black;
+}
+.form-group{
+	width: 45%;
+}
+.input-group{
+	width: 45%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: write;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.nav-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 450px;
+    overflow: hidden;
+    background-color: #333;
+    text-decoration: none;
+    height: 50px;
+    opacity: 0.5;
+    padding-top: 0px;
+}
+
+li{
+    float: left;
+}
+.active{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+    text-decoration: none;
+    color: red;
+
+}
+
